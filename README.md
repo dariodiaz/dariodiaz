@@ -41,6 +41,9 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/dariodiaz/cypress-testing-project/pull/5) in [dariodiaz/cypress-testing-project](https://github.com/dariodiaz/cypress-testing-project)
+2. 💪 Opened PR [#5](https://github.com/dariodiaz/cypress-testing-project/pull/5) in [dariodiaz/cypress-testing-project](https://github.com/dariodiaz/cypress-testing-project)
+<!--END_SECTION:activity-->
 
 [website]: https://darioalejandrodiaz.com
 [twitter]: https://twitter.com/dario_a_diaz
