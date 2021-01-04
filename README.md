@@ -40,6 +40,8 @@
 
 ---
 
+<!--START_SECTION:activity-->
+
 [website]: https://darioalejandrodiaz.com
 [twitter]: https://twitter.com/dario_a_diaz
 [linkedin]: https://linkedin.com/in/darioalejandrodiaz
