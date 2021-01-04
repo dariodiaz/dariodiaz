@@ -36,6 +36,9 @@
 <br />
 
 ---
+<img align="left" alt="dariodiaz Github Stats" src="https://github-readme-stats.vercel.app/api?username=dariodiaz&show_icons=true&hide_border=true" />
+
+---
 
 [website]: https://darioalejandrodiaz.com
 [twitter]: https://twitter.com/dario_a_diaz
