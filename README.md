@@ -38,6 +38,8 @@
 ---
 <img align="left" alt="dariodiaz Github Stats" src="https://github-readme-stats.vercel.app/api?username=dariodiaz&show_icons=true&hide_border=true" />
 
+---
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
 [website]: https://darioalejandrodiaz.com
