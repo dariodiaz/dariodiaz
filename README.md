@@ -41,8 +41,8 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/dariodiaz/cypress-testing-project/pull/5) in [dariodiaz/cypress-testing-project](https://github.com/dariodiaz/cypress-testing-project)
-2. 💪 Opened PR [#5](https://github.com/dariodiaz/cypress-testing-project/pull/5) in [dariodiaz/cypress-testing-project](https://github.com/dariodiaz/cypress-testing-project)
+1. 🗣 Commented on [#50](https://github.com/jamesgeorge007/github-activity-readme/issues/50) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#3](https://github.com/dariodiaz/cypress-automation-framework/pull/3) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
 <!--END_SECTION:activity-->
 
 [website]: https://darioalejandrodiaz.com
