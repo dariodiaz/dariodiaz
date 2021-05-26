@@ -41,8 +41,8 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/dariodiaz/cypress-automation-framework/pull/9) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
-2. 💪 Opened PR [#9](https://github.com/dariodiaz/cypress-automation-framework/pull/9) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
+1. 🎉 Merged PR [#10](https://github.com/dariodiaz/cypress-automation-framework/pull/10) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
+2. 💪 Opened PR [#10](https://github.com/dariodiaz/cypress-automation-framework/pull/10) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
 <!--END_SECTION:activity-->
 
 [website]: https://darioalejandrodiaz.com
