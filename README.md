@@ -1,4 +1,4 @@
-### Hi there, I'm Dario [website] 👋
+### Hi there, I'm Dario, this is my [website] 👋
 
 [![Website](https://img.shields.io/website?label=darioalejandrodiaz.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://darioalejandrodiaz.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dario_a_diaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdariodiaz&screen_name=dario_a_diaz)
@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Cypress" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGhE8jNwjlc3w/company-logo_200_200/0/1554836371931?e=1617840000&v=beta&t=L1WjWjAtrVf3t_XRc4nkca7qr52x_R7dsjlY4Qyjscg">
+<img align="left" alt="Cypress" width="26px" src="https://www.cypress.io/icons/icon-48x48.png?v=90213ca87017074111a88470199bc242315d18c5">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -33,14 +33,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
----
-<img align="left" alt="dariodiaz Github Stats" src="https://github-readme-stats.vercel.app/api?username=dariodiaz&show_icons=true&hide_border=true" />
 
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#19](https://github.com/dariodiaz/cypress-automation-framework/pull/19) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
+2. 💪 Opened PR [#19](https://github.com/dariodiaz/cypress-automation-framework/pull/19) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
+<!--END_SECTION:activity-->
 
 [website]: https://darioalejandrodiaz.com
 [twitter]: https://twitter.com/dario_a_diaz
