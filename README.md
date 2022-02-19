@@ -37,8 +37,8 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/dariodiaz/cypress-automation-framework/pull/22) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
-2. 💪 Opened PR [#22](https://github.com/dariodiaz/cypress-automation-framework/pull/22) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
+1. 🗣 Commented on [#3097](https://github.com/sanity-io/sanity/issues/3097) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
+2. 🎉 Merged PR [#22](https://github.com/dariodiaz/cypress-automation-framework/pull/22) in [dariodiaz/cypress-automation-framework](https://github.com/dariodiaz/cypress-automation-framework)
 <!--END_SECTION:activity-->
 
 [website]: https://darioalejandrodiaz.com
